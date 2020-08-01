@@ -1,11 +1,11 @@
-# node-typescript-start
+# node-typescript-starter
 
 Basic Express Server with Typescript
 
 ## Scripts
 
 - _start_: run compiled app '/dist/app.js'
-- _dev_: run dev server with nodemon
+- _dev_: watch dev server '/src/app.ts' with nodemon
 - _build_: compile typescript app 'src/app.ts' to 'dist' folder
 
 ## Usage
